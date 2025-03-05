@@ -1,13 +1,8 @@
-Exercise 1: Setting Up Java and Writing Your First Program
+Exercise 2: Extending Your Java Skills
 
-Write Your First Java Program:
-Open your chosen IDE.
-Create a new Java project and add a file named Main.java.
-Write the following code in the Main.java file:
-public class Main {
-public static void main(String[] args) {
-System.out.println("Hello, World!");
-}
-}
-Run the program in your IDE.
-Ensure that "Hello, World!" is displayed in the console.
+Add a New Class File:
+Open the same Java project you created in Exercise 1.
+Create a new file in your project directory and name it Book.java (or Student.java or Car.java or Avatar.java if you prefer).
+Write a class to demonstrate Encapsulation. 
+Update Your Main File:
+Modify your Main.java file to use the Book (or Student) class. Add code to create objects, set their attributes, and call their methods.
